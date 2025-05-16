@@ -1,0 +1,1 @@
+C.W. Clarke’s seminal model of open‐access fisheries highlighted the devastating economic inefficiencies that arise when access to common‐pool resources is unrestricted. This white paper presents a statistical framework to estimate key biological and economic parameters from historical catch and effort data.
